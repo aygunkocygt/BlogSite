@@ -1,4 +1,4 @@
 export  class City{
-  SehirId:number;
-  SehirAd:string;
+  CityId:number;
+  CityName:string;
 }
